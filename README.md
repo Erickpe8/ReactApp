@@ -24,6 +24,15 @@ Basado en mi camino actual de formación:
 
 ---
 
+## 📸 Galería de Evidencias
+Visualiza el resultado final de la aplicación en sus diferentes secciones:
+
+| Pantalla de Inicio | Listado de Tecnologías | Acerca de la App |
+| :---: | :---: | :---: |
+| ![Inicio](./evidencias/Inicio.jpeg) | ![Tecnología](./evidencias/Tecnologia.jpeg) | ![Acerca](./evidencias/Acerca.jpeg) |
+
+---
+---
 ## 🎨 Diseño Visual
 - **Paleta de Colores:** Celeste (#00B4D8) y Amarillo (#FFD166).
 - **Modo Oscuro:** Adaptación de contraste para entornos de baja luz.
@@ -45,3 +54,4 @@ npx expo start
 
 ---
 *© 2026 - Erick Pérez - Hola Mundo*
+
